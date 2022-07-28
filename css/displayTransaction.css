@@ -1,0 +1,22 @@
+.transaction-item{
+    display: flex;
+    background-color: white;
+    color: black;
+    width: 500px;
+    height: 50px;
+    margin-top: 5px;
+}
+
+.expense-line{
+    border-right: 4px solid red;
+    margin-left: 120px;
+
+}
+
+
+
+.medium-line{
+    border-right: 100px solid yellow;
+    margin-left: 120px;
+
+}
